@@ -1,9 +1,5 @@
 # ESP32 Automatic Parking Barrier System
 
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
-![IDE](https://img.shields.io/badge/IDE-Arduino_IDE-green)
-
 <p align="center">
   <img src="images/project.jpg" width="750">
 </p>
@@ -38,9 +34,7 @@ This project demonstrates basic embedded systems concepts such as sensor integra
 - Jumper Wires
 - Resistors (Voltage Divider)
 
-<p align="center">
-  <img src="images/hardware.jpg" width="650">
-</p>
+
 
 ---
 
@@ -100,12 +94,6 @@ const int BEKLEME_SURESI = 3000;
 
 # Project Images
 
-## Hardware Setup
-
-<p align="center">
-  <img src="images/hardware.jpg" width="650">
-</p>
-
 ## Barrier Closed
 
 <p align="center">
@@ -114,9 +102,8 @@ const int BEKLEME_SURESI = 3000;
 
 ## Barrier Open
 
-<p align="center">
-  <img src="images/barrier-open.jpg" width="650">
-</p>
+<img width="1600" height="1200" alt="barrier-close jpg" src="https://github.com/user-attachments/assets/17ac6c5c-310f-4bea-986e-20094edef79b" />
+
 
 ---
 
@@ -126,8 +113,7 @@ const int BEKLEME_SURESI = 3000;
 esp32-automatic-parking-barrier
 │
 ├── images
-│   ├── project.jpg
-│   ├── hardware.jpg
+│
 │   ├── barrier-open.jpg
 │   └── barrier-close.jpg
 │

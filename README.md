@@ -96,13 +96,11 @@ const int BEKLEME_SURESI = 3000;
 
 ## Barrier Closed
 
-<p align="center">
-  <img src="images/barrier-close.jpg" width="650">
-</p>
+<img width="1600" height="1200" alt="barrier-close jpg" src="https://github.com/user-attachments/assets/17ac6c5c-310f-4bea-986e-20094edef79b" />
 
 ## Barrier Open
 
-<img width="1600" height="1200" alt="barrier-close jpg" src="https://github.com/user-attachments/assets/17ac6c5c-310f-4bea-986e-20094edef79b" />
+<img width="1600" height="1200" alt="barrier-open jpg" src="https://github.com/user-attachments/assets/57c2b101-db28-404a-a16a-1aa8390cd679" />
 
 
 ---
@@ -134,7 +132,7 @@ esp32-automatic-parking-barrier
 - Cloud-based parking management
 
 ---
-<img width="1600" height="1200" alt="barrier-open jpg" src="https://github.com/user-attachments/assets/57c2b101-db28-404a-a16a-1aa8390cd679" />
+
 
 # License
 

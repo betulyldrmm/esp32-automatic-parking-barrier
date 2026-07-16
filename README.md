@@ -1,8 +1,5 @@
 # ESP32 Automatic Parking Barrier System
 
-<p align="center">
-  <img src="images/project.jpg" width="750">
-</p>
 
 An automatic parking barrier system developed using an **ESP32 Development Board**, **HC-SR04 Ultrasonic Sensor**, **SG90 Servo Motor**, and **SSD1306 OLED Display**.
 
